@@ -38,38 +38,6 @@ A simple **console-based Hangman Game** built using **Java**. The objective of t
 
 ---
 
-# ▶️ How to Run
-
-## Clone the Repository
-
-```bash
-git clone https://github.com/your-username/HangmanGame.git
-```
-
-## Compile the Program
-
-```bash
-javac HangmanGame.java
-```
-
-## Run the Program
-
-```bash
-java HangmanGame
-```
-
----
-
-# 📁 Project Structure
-
-```
-HangmanGame/
-│── HangmanGame.java
-│── README.md
-```
-
----
-
 # 🎮 Sample Gameplay
 
 ```
